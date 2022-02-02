@@ -7,3 +7,5 @@ Change for the first Jenkins build.
 My change for the first Jenkins build.
 
 Second try for Jenkins.
+
+test for pipeline.
