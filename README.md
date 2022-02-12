@@ -9,3 +9,5 @@ My change for the first Jenkins build.
 Second try for Jenkins.
 
 test for pipeline.
+
+20220212 test Azure VM + Docker + Jenkins
