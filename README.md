@@ -11,3 +11,4 @@ Second try for Jenkins.
 test for pipeline.
 
 20220212 test Azure VM + Docker + Jenkins ; second to see git version.
+third time and change commit message.
