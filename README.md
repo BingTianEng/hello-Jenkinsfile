@@ -12,3 +12,5 @@ test for pipeline.
 
 20220212 test Azure VM + Docker + Jenkins ; second to see git version.
 third time and change commit message.
+
+Test for VMDockerJenkins-pipeline.
